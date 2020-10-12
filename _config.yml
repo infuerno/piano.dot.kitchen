@@ -21,7 +21,7 @@
 title: piano.dot.kitchen
 email: infuerno@fastmail.fm
 description: >- # this means to ignore newlines until "baseurl:"
-  Learning the piano de novo
+  Learning the piano 'de novo'
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://piano.dot.kitchen" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: infurnex
@@ -50,3 +50,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+show_excerpts: true
